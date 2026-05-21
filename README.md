@@ -1,6 +1,6 @@
 # 🌍 Diário de Bordo
 
-Projeto educacional desenvolvido durante as aulas de Desenvolvimento Web.
+Projeto educacional desenvolvido durante as aulas de Programação e Desenvolvimento Web.
 
 ## Sobre o projeto
 
@@ -54,7 +54,7 @@ O site funciona como um diário de bordo digital apresentando conteúdos desenvo
 
 ---
 
-## Objetivo acadêmico
+## Objetivo acadêmico 
 
 Desenvolver habilidades práticas em criação de interfaces web modernas, responsivas e organizadas, aplicando conceitos de design, experiência do usuário e desenvolvimento front-end.
 
