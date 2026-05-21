@@ -2,7 +2,7 @@
 
 Projeto educacional desenvolvido durante as aulas de Desenvolvimento Web.
 
-## 📚 Sobre o projeto
+## Sobre o projeto
 
 O objetivo deste projeto foi aplicar conhecimentos iniciais de:
 
